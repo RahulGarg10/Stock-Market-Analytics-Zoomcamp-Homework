@@ -1,8 +1,7 @@
 # Stock-Market-Analytics-Zoomcamp-Homework
 ## Index:
-- [Module 1 Homework](##Module-1-Homework-(2025-cohort))
-- [Leaderboard](https://github.com/RahulGarg10/Stock-Market-Analytics-Zoomcamp-Homework/edit/main/README.md#leaderboard)
-- https://github.com/RahulGarg10/Stock-Market-Analytics-Zoomcamp-Homework/edit/main/README.md#leaderboard
+- [Module 1 Homework](#module-1-homework-(2025-cohort))
+- [Leaderboard](#leaderboard)
 
 ## Module 1 Homework (2025 cohort)
 
